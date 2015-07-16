@@ -1,0 +1,27 @@
+{
+  "name": "turtle-zoo-cycle",
+  "version": "1.0.0",
+  "description": "A Zoo for Turtles in Cycle.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WorldMaker/turtle-zoo-cycle.git"
+  },
+  "author": "Max Battcher <me@worldmaker.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WorldMaker/turtle-zoo-cycle/issues"
+  },
+  "homepage": "https://github.com/WorldMaker/turtle-zoo-cycle",
+  "jspm": {
+    "directories": {},
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.1.13",
+      "babel-runtime": "npm:babel-runtime@^5.1.13",
+      "core-js": "npm:core-js@^0.9.4"
+    }
+  }
+}
