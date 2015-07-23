@@ -20,7 +20,9 @@
     "directories": {},
     "dependencies": {
       "@cycle/core": "npm:@cycle/core@^1.0.0",
-      "@cycle/web": "npm:@cycle/web@^2.1.1"
+      "@cycle/web": "npm:@cycle/web@^2.1.1",
+      "jade-vd": "github:WorldMaker/system-jade-virtualdom@^1.0.0",
+      "turtle-factory": "github:WorldMaker/turtle-factory@^1.0.1"
     },
     "devDependencies": {
       "babel": "npm:babel-core@^5.1.13",
