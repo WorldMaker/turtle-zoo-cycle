@@ -1,5 +1,5 @@
 import Cycle from '@cycle/core';
-import {makeDOMDriver, h} from '@cycle/web';
+import {makeDOMDriver, h} from '@cycle/dom';
 
 function main(drivers) {
   return {

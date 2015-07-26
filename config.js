@@ -15,8 +15,8 @@ System.config({
 
 System.config({
   "map": {
-    "@cycle/core": "npm:@cycle/core@1.0.0",
-    "@cycle/web": "npm:@cycle/web@2.1.1",
+    "@cycle/core": "npm:@cycle/core@1.0.1",
+    "@cycle/dom": "npm:@cycle/dom@3.0.2",
     "babel": "npm:babel-core@5.7.2",
     "babel-runtime": "npm:babel-runtime@5.7.0",
     "core-js": "npm:core-js@0.9.18",
@@ -55,12 +55,12 @@ System.config({
     "github:jspm/nodelibs-vm@0.1.0": {
       "vm-browserify": "npm:vm-browserify@0.0.4"
     },
-    "npm:@cycle/core@1.0.0": {
+    "npm:@cycle/core@1.0.1": {
       "process": "github:jspm/nodelibs-process@0.1.1",
       "rx": "npm:rx@2.5.3"
     },
-    "npm:@cycle/web@2.1.1": {
-      "@cycle/core": "npm:@cycle/core@1.0.0",
+    "npm:@cycle/dom@3.0.2": {
+      "@cycle/core": "npm:@cycle/core@1.0.1",
       "es6-map": "npm:es6-map@0.1.1",
       "process": "github:jspm/nodelibs-process@0.1.1",
       "vdom-parser": "npm:vdom-parser@1.2.1",
